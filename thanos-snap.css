@@ -1,26 +1,35 @@
 /* Important to add in your css file */
 .dust {
     position: absolute;
-  }
-  * {
-      margin: 0px;
-      overflow-x: hidden;
-  }
+}
+
+* {
+    margin: 0px;
+    overflow-x: hidden;
+}
+
 .iron-man {
     display: inline-block;
 }
-  /* Till here */
 
-  .test{
-      height: auto;
-      width: auto;
-  }
+/* Till here */
 
-  .btn {
-      border-radius: 0;
-      padding: 10px;
-  }
+.test {
+    height: auto;
+    width: auto;
+}
 
-  body{
-      background-color: black;
-  }
+.btn {
+    border-radius: 0;
+    padding: 10px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: white;
+}
